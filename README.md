@@ -6,7 +6,6 @@
 <h3 align="center">A passionate Front-End Developer from Sofia, Bulgaria</h3>
 
 <br/>
-<br/>
 
 <p align="center"> <a href="https://twitter.com/dan_iv99" target="blank"><img src="https://img.shields.io/twitter/follow/dan_iv99?logo=twitter&style=for-the-badge" alt="dan_iv99" /></a> </p>
 
