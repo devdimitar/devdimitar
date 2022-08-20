@@ -10,12 +10,12 @@
 <p align="center"> <a href="https://twitter.com/dan_iv99" target="blank"><img src="https://img.shields.io/twitter/follow/dan_iv99?logo=twitter&style=for-the-badge" alt="dan_iv99" /></a> </p>
 
 <p align = "center">Very keen on<a href="" target="blank"><img src="https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge" alt="dimitar ivanov linkedin" /></a> </p>
-<p align="center"> <a href="https://www.linkedin.com/in/dimitar-ivanov-6261a8249/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dimitar ivanov linkedin" width="500px"/></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/dimitar-ivanov-6261a8249/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dimitar ivanov linkedin" /></a> </p>
 
 
 <br/>
 
-<p align = "center">Very keen on<a href="" target="blank"><img src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/crypto%20%26%20meta.png" alt="dimitar ivanov linkedin" /></a> </p>
+<p align = "center">Very keen on<a href="" target="blank"><img src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/crypto%20%26%20meta.png" width="500px" alt="dimitar ivanov linkedin" /></a> </p>
 
 
 - 🔧 I’m currently working on [OneMillionTattos](https://onemilliontattoos.bg/)
