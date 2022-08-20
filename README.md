@@ -11,9 +11,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devdimitar&label=Profile%20views&color=0e75b6&style=flat" alt="devdimitar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dan_iv99" target="blank"><img src="https://img.shields.io/twitter/follow/dan_iv99?logo=twitter&style=for-the-badge" alt="dan_iv99" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dan_iv99" target="blank"><img src="https://img.shields.io/twitter/follow/dan_iv99?logo=twitter&style=for-the-badge" alt="dan_iv99" /></a> </p>&nbsp&nbsp&nbsp&nbsp&nbsp
 
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img align="right" alt="devDimitar" width="200" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/D-LOGO-turquoise-gradient.png" style="padding-top: 50px">
+<img align="right" alt="devDimitar" width="200" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/D-LOGO-turquoise-gradient.png" style="padding-top: 50px">
 
 - 🔧 I’m currently working on [OneMillionTattos](https://onemilliontattoos.bg/)
 
