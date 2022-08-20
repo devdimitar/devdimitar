@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-<img align="right" alt="devDimitar" width="200" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/D-LOGO-turquoise-gradient.png" style="padding-top: 50px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="right" alt="devDimitar" width="200" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/D-LOGO-turquoise-gradient.png" style="padding-top: 50px">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devdimitar&label=Profile%20views&color=0e75b6&style=flat" alt="devdimitar" /> </p>
