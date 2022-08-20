@@ -3,8 +3,9 @@
 ![devDimitarMainBanner](https://raw.githubusercontent.com/devdimitar/devdimitar/main/software-code-wallpaper-githubdev-2.png)
 
 <h1 align="center">Hi 👋, I'm Dimitar Ivanov</h1>
-<h2 align="center">A passionate Front-End Developer from Sofia, Bulgaria</h2>
-
+<h3 align="center">A passionate Front-End Developer from Sofia, Bulgaria</h3>
+&nbsp
+&nbsp
 <br/>
 <br/>
 
