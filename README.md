@@ -1,3 +1,5 @@
+![devDimitarMainBanner](https://raw.githubusercontent.com/devdimitar/devdimitar/main/JavaScript-Code-Wallpaper.png)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on myself
