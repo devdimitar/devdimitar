@@ -12,6 +12,7 @@
 <br/>
 
 <img align="right" alt="devDimitar" width="200" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/D-LOGO-turquoise-gradient.png" style="padding-top: 50px">
+<br/><br/><br/>
 
 - 🔧 I’m currently working on [OneMillionTattos](https://onemilliontattoos.bg/)
 
