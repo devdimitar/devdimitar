@@ -5,6 +5,10 @@
 <h3 align="center">A passionate frontend developer from Sofia, Bulgaria</h3>
 
 <br/>
+<br/>
+<br/>
+<br/>
+aa
 <img align="right" alt="devDimitar" width="200" style="vertical align:middle; margin: 250px 0px" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/D-LOGO-turquoise-gradient.png">
 
 
