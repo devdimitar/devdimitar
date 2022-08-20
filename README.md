@@ -9,6 +9,9 @@
 
 <p align="center"> <a href="https://twitter.com/dan_iv99" target="blank"><img src="https://img.shields.io/twitter/follow/dan_iv99?logo=twitter&style=for-the-badge" alt="dan_iv99" /></a> </p>
 
+<p align="center"> <a href="https://twitter.com/dan_iv99" target="blank"><img src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white" alt="dan_iv99" /></a> </p>
+
+
 <br/>
 
 
