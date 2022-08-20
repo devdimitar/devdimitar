@@ -15,7 +15,8 @@
 
 <br/>
 
-<p align = "left">Very keen on finance & crypto    <a href="" target="blank"><img src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/crypto%20%26%20meta.png" align="center" width="500px" alt="dimitar ivanov linkedin" /></a> </p>
+- 👨‍💻 <p align = "left">Very keen on finance & crypto &nbsp&nbsp<a href="" target="blank"><img src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/crypto%20%26%20meta.png" align="center" width="500px" alt="dimitar ivanov linkedin" /></a> </p>
+- 🌱 I also know graphics design.
 
 
 - 🔧 I’m currently working on [OneMillionTattos](https://onemilliontattoos.bg/)
