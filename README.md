@@ -13,7 +13,7 @@
 
 - 🔧 I’m currently working on [OneMillionTattos](https://onemilliontattoos.bg/)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m always learning new stuff **JavaScript**
 
 - 👯 I’m looking to collaborate on **fun projects**
 
