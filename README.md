@@ -11,14 +11,14 @@
 
 <br/>
 
-<img align="right" alt="devDimitar" width="200" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/D-LOGO-turquoise-gradient.png" style="padding-top: 50px">
-<br/><br/><br/>
 
 - 🔧 I’m currently working on [OneMillionTattos](https://onemilliontattoos.bg/)
 
 - 🌱 I’m always learning new stuff **JavaScript**
 
 - 👯 I’m looking to collaborate on **fun projects**
+
+<img align="right" alt="devDimitar" width="200" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/D-LOGO-turquoise-gradient.png" style="padding-top: 50px">
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/dimitar-ivanov-6261a8249/](https://www.linkedin.com/in/dimitar-ivanov-6261a8249/)
 
