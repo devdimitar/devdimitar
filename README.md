@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-<img align="right" alt="devDimitar" width="400" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/LOGO-D9.png">
+<img align="right" alt="devDimitar" width="300" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/LOGO-D9.png">
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning JavaScript
