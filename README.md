@@ -1,5 +1,5 @@
 
-![devDimitarMainBanner](https://raw.githubusercontent.com/devdimitar/devdimitar/main/JavaScript-Code-Wallpaper.png)
+![devDimitarMainBanner](https://raw.githubusercontent.com/devdimitar/devdimitar/main/software-code-wallpaper-githubdev.png)
 
 <h1 align="center">Hi 👋, I'm Dimitar Ivanov</h1>
 <h3 align="center">A passionate frontend developer from Sofia, Bulgaria</h3>
