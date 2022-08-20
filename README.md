@@ -5,7 +5,7 @@
 <h3 align="center">A passionate frontend developer from Sofia, Bulgaria</h3>
 
 <div></div>
-<img align="right" alt="devDimitar" width="200" style="margin: 250px" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/D-LOGO-turquoise-gradient.png">
+<img align="right" alt="devDimitar" width="200" style="vertical align:middle; margin: 250px 0px" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/D-LOGO-turquoise-gradient.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devdimitar&label=Profile%20views&color=0e75b6&style=flat" alt="devdimitar" /> </p>
