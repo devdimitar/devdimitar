@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Dimitar Ivanov</h1>
 <h3 align="center">A passionate frontend developer from Sofia, Bulgaria</h3>
 
-<div></div>
+<br/>
 <img align="right" alt="devDimitar" width="200" style="vertical align:middle; margin: 250px 0px" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/D-LOGO-turquoise-gradient.png">
 
 
