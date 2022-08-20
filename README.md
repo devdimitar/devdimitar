@@ -1,8 +1,8 @@
+
 ![devDimitarMainBanner](https://raw.githubusercontent.com/devdimitar/devdimitar/main/JavaScript-Code-Wallpaper.png)
+<img align="right" alt="devDimitar" width="300" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/LOGO-D9.png">
 
 ### Hi there 👋
-
-<img align="right" alt="devDimitar" width="300" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/LOGO-D9.png">
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning JavaScript
