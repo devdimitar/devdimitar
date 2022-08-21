@@ -7,7 +7,7 @@
 </br>
 
 <h3>About me:</h3>
-<h3 align="right">I love to:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>
+<h3 align="right">I love to:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>
 <ul>
 &nbsp;&nbsp;<li &nbsp;>&nbsp;&nbsp;🔧 I’m currently working on <a href="https://onemilliontattoos.bg/">OneMillionTattoos</a></li>
 <li>🎓 I’m a"lways <strong>learning and improving myself</strong></li>
