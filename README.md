@@ -4,10 +4,11 @@
 <h1 align="center">Hi 👋, I'm Dimitar Ivanov</h1>
 <h3 align="center">A passionate Front-End Developer from Sofia, Bulgaria</h3>
 
-<h3>About me:</h3>
+</br>
 
+<h3>About me:</h3>
 <ul>
-<li>🔧 I’m currently working on <a href="https://onemilliontattoos.bg/">OneMillionTattoos</a></li>
+<li>    🔧 I’m currently working on <a href="https://onemilliontattoos.bg/">OneMillionTattoos</a></li>
 <li>🎓 I’m a"lways <strong>learning and improving myself</strong></li>
 <img align="right" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/coding-shit.gif" width="200px">
 <li>📝 I love to <strong>build webpages</strong></li>
