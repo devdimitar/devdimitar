@@ -20,7 +20,7 @@
 <li>⚡ Fun fact <strong>I never miss a workout</strong></li>
 </ul>
 
-<img align="center" alt="devDimitar" width="150" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/D-LOGO-X3.png">
+<p align="center"><img alt="devDimitar" width="150" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/D-LOGO-X3.png"></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
