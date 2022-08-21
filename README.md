@@ -16,7 +16,7 @@
 <p align = "center">👨‍💻 Very keen on finance & crypto</p>
 
 <ul>
-<li>🔧 I’m currently working on [OneMillionTattos](https://onemilliontattoos.bg/)</li >
+<li>🔧 I’m currently working on <a href="https://onemilliontattoos.bg/">OneMillionTattoos</a></li >
 <li>🌱 I’m always learning new stuff **JavaScript**</li>
 </ul>
 
