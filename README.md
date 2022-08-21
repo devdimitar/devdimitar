@@ -7,7 +7,7 @@
 
 <br/>
 
-<p align="center"><img align="center" alt="devDimitar" width="130" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/D-LOGO-X2.png"></p>
+<p align="center"><img align="center" alt="devDimitar" width="130" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/D-LOGO-X3.png"></p>
 
 <br/>
 
