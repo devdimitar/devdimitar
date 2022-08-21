@@ -6,7 +6,7 @@
 
 <h3>About me:</h3>
 
-<p align="center"><ul align="center">
+<ul>
 <li>🔧 I’m currently working on <a href="https://onemilliontattoos.bg/">OneMillionTattoos</a></li>
 <li>🎓 I’m always <strong>learning and improving myself</strong></li>
 <li>📝 I love to <strong>build webpages</strong></li>
@@ -18,7 +18,7 @@
 <li>📫 DM for <strong>collab & work</strong></li>
 <li>🎑 More about me at <a href="https://www.linkedin.com/in/dimitar-ivanov-6261a8249/">LinkedIn</a></li>
 <li>⚡ Fun fact <strong>I never miss a workout</strong></li>
-</ul></p>
+</ul>
 
 <p align="center"><img alt="devDimitar" width="130" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/D-LOGO-X3.png"></p>
 
