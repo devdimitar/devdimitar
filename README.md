@@ -14,7 +14,7 @@
 <h3>About me:</h3>
 
 <ul align="center">
-<li>🔧 I’m currently working on <a href="https://onemilliontattoos.bg/">OneMillionTattoos</a></li>
+<li align="center">🔧 I’m currently working on <a href="https://onemilliontattoos.bg/">OneMillionTattoos</a></li>
 <li>🎓 I’m always learning and improving myself</li>
 <li>🧑‍🎨 I also know <strong>graphic design</strong></li>
 <li>👯 I’m looking to collaborate on <strong>fun projects</strong></li>
