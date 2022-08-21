@@ -6,7 +6,7 @@
 
 <h3>About me:</h3>
 
-<p align="center"><ul>
+<p align="center"><ul align="center">
 <li>🔧 I’m currently working on <a href="https://onemilliontattoos.bg/">OneMillionTattoos</a></li>
 <li>🎓 I’m always <strong>learning and improving myself</strong></li>
 <li>📝 I love to <strong>build webpages</strong></li>
