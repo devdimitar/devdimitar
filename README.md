@@ -9,7 +9,7 @@
 <ul>
 <li>🔧 I’m currently working on <a href="https://onemilliontattoos.bg/">OneMillionTattoos</a></li>
 <li>🎓 I’m a"lways <strong>learning and improving myself</strong></li>
-<img align="right" src="https://media2.giphy.com/media/2Rc2BC6AwdOncuw6Sf/giphy.gif?cid=ecf05e477a1a60rblkrv3r2x3hwh9f5dzc74g4cu42ccflz1&rid=giphy.gif&ct=g" width="200px">
+<img align="right" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/coding-shit.gif" width="200px">
 <li>📝 I love to <strong>build webpages</strong></li>
 <li>🧑‍🎨 I also know <strong>graphic design</strong></li>
 <li>👯 I’m looking to collaborate on <strong>fun projects</strong></li>
