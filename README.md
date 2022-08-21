@@ -11,7 +11,7 @@
 <ul>
 <li>&nbsp;&nbsp;&nbsp;🔧 I’m currently working on <a href="https://onemilliontattoos.bg/">OneMillionTattoos</a></li>
 <img align="right" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/coding-shit3.1.gif" width="270px">
-<li>&nbsp;&nbsp;&nbsp;🎓 I’m a"lways <strong>learning and improving myself</strong></li>
+<li>&nbsp;&nbsp;&nbsp;🎓 I’m always <strong>learning and improving myself</strong></li>
 <li>&nbsp;&nbsp;&nbsp;📝 I love to <strong>build webpages</strong></li>
 <li>&nbsp;&nbsp;&nbsp;🧑‍🎨 I also know <strong>graphic design</strong></li>
 <li>&nbsp;&nbsp;&nbsp;👯 I’m looking to collaborate on <strong>fun projects</strong></li>
