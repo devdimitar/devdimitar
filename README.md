@@ -9,15 +9,9 @@
 
 <p align="center"><img align="center" alt="devDimitar" width="150" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/D-LOGO-turquoise-gradient.png" style="padding-top: 50px"></p>
 
-<p align="center"> <a href="https://twitter.com/dan_iv99" target="blank"><img src="https://img.shields.io/twitter/follow/dan_iv99?logo=twitter&style=for-the-badge" alt="dan_iv99" /></a> </p>
-
-<p align = "center">Very keen on<a href="" target="blank"><img src="https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge" alt="dimitar ivanov linkedin" /></a> </p>
-<p align="center"> <a href="https://www.linkedin.com/in/dimitar-ivanov-6261a8249/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dimitar ivanov linkedin" /></a> </p>
-
-
 <br/>
 
-<p align = "center">- 👨‍💻 Very keen on finance & crypto &nbsp&nbsp</p>
+<h3 align = "center">- 👨‍💻 Very keen on finance & crypto</h3>
 
 <p align = "center"><a href="" target="blank"><img src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/crypto%20%26%20meta.png" align="center" width="500px" alt="dimitar ivanov linkedin" /></a></p>
 
