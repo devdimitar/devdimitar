@@ -7,11 +7,11 @@
 
 <br/>
 
-<p align="center"><img align="center" alt="devDimitar" width="150" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/D-LOGO-turquoise-gradient.png" style="padding-top: 50px"></p>
+<p align="center"><img align="center" alt="devDimitar" width="130" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/D-LOGO-X2.png"></p>
 
 <br/>
 
-<h3 align = "center">- 👨‍💻 Very keen on finance & crypto</h3>
+<h4 align = "center">👨‍💻 Very keen on finance & crypto</h4>
 
 <p align = "center"><a href="" target="blank"><img src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/crypto%20%26%20meta.png" align="center" width="500px" alt="dimitar ivanov linkedin" /></a></p>
 
