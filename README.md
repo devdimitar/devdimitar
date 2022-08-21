@@ -6,11 +6,11 @@
 
 </br>
 
-<h3>About me:</h3>
 <h3 align="right">I love to:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>
+<h3>About me:</h3>
 <ul>
-&nbsp;&nbsp;<li &nbsp;>&nbsp;&nbsp;🔧 I’m currently working on <a href="https://onemilliontattoos.bg/">OneMillionTattoos</a></li>
-<li>🎓 I’m a"lways <strong>learning and improving myself</strong></li>
+<li>&nbsp;&nbsp;&nbsp;🔧 I’m currently working on <a href="https://onemilliontattoos.bg/">OneMillionTattoos</a></li>
+<li>&nbsp;&nbsp;&nbsp;🎓 I’m a"lways <strong>learning and improving myself</strong></li>
 <img align="right" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/coding-shit.gif" width="200px">
 <li>📝 I love to <strong>build webpages</strong></li>
 <li>🧑‍🎨 I also know <strong>graphic design</strong></li>
