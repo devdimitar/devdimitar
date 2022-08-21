@@ -6,10 +6,11 @@
 
 <h3>About me:</h3>
 
-<ul align="left"&nbsp;&nbsp;&nbsp;>
+<ul align="left">
 <li>🔧 I’m currently working on <a href="https://onemilliontattoos.bg/">OneMillionTattoos</a></li>
 <li>🎓 I’m always <strong>learning and improving myself</strong></li>
-<img align="right" alt="devDimitar" width="150" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/D-LOGO-X3.png"&nbsp;&nbsp;&nbsp;>
+<li>📝 I love to <strong>build webpages</strong></li>
+<img align="right" alt="devDimitar" width="150" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/D-LOGO-X3.png">
 <li>🧑‍🎨 I also know <strong>graphic design</strong></li>
 <li>👯 I’m looking to collaborate on <strong>fun projects</strong></li>
 <li>📈 I'm very keen on <strong>finance & crypto</strong></li>
@@ -19,9 +20,6 @@
 <li>🎑 More about me at <a href="https://www.linkedin.com/in/dimitar-ivanov-6261a8249/">LinkedIn</a></li>
 <li>⚡ Fun fact <strong>I never miss a workout</strong></li>
 </ul>
-
-
-<p align = "center"><img src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/crypto%20%26%20meta.png" width="400px"/></p>
 
 
 <h3 align="center">Connect with me:</h3>
