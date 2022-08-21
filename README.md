@@ -7,7 +7,7 @@
 
 <br/>
 
-<img align="center" alt="devDimitar" width="100" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/D-LOGO-turquoise-gradient.png" style="padding-top: 50px">
+<p align="center"><img align="center" alt="devDimitar" width="150" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/D-LOGO-turquoise-gradient.png" style="padding-top: 50px"></p>
 
 <p align="center"> <a href="https://twitter.com/dan_iv99" target="blank"><img src="https://img.shields.io/twitter/follow/dan_iv99?logo=twitter&style=for-the-badge" alt="dan_iv99" /></a> </p>
 
