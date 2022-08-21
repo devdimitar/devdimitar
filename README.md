@@ -7,6 +7,8 @@
 
 <br/>
 
+<img align="center" alt="devDimitar" width="100" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/D-LOGO-turquoise-gradient.png" style="padding-top: 50px">
+
 <p align="center"> <a href="https://twitter.com/dan_iv99" target="blank"><img src="https://img.shields.io/twitter/follow/dan_iv99?logo=twitter&style=for-the-badge" alt="dan_iv99" /></a> </p>
 
 <p align = "center">Very keen on<a href="" target="blank"><img src="https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge" alt="dimitar ivanov linkedin" /></a> </p>
@@ -15,13 +17,14 @@
 
 <br/>
 
-<p align = "left">- 👨‍💻 Very keen on finance & crypto &nbsp&nbsp<a href="" target="blank"><img src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/crypto%20%26%20meta.png" align="center" width="500px" alt="dimitar ivanov linkedin" /></a> </p>
+<p align = "center">- 👨‍💻 Very keen on finance & crypto &nbsp&nbsp</p>
+
+<p align = "center"><a href="" target="blank"><img src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/crypto%20%26%20meta.png" align="center" width="500px" alt="dimitar ivanov linkedin" /></a></p>
+
 - 🌱 I also know graphics design.
 
 
 - 🔧 I’m currently working on [OneMillionTattos](https://onemilliontattoos.bg/)
-
-<img align="right" alt="devDimitar" width="200" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/D-LOGO-turquoise-gradient.png" style="padding-top: 50px">
 
 - 🌱 I’m always learning new stuff **JavaScript**
 
@@ -49,6 +52,8 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+</br>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devdimitar&" alt="devdimitar" /></p>
 
