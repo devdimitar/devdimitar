@@ -16,32 +16,21 @@
 <p align = "center">👨‍💻 Very keen on finance & crypto</p>
 
 <ul>
-<li>🔧 I’m currently working on <a href="https://onemilliontattoos.bg/">OneMillionTattoos</a></li >
-<li>🌱 I’m always learning new stuff **JavaScript**</li>
+<li>🔧 I’m currently working on <a href="https://onemilliontattoos.bg/">OneMillionTattoos</a></li>
+<li>🎓 I’m always learning and improving myself</li>
+<li>🧑‍🎨 I also know <strong>graphic design</strong></li>
+<li>👯 I’m looking to collaborate on <strong>fun projects</strong></li>
+<li>📈 I'm very keen on<strong>finance & crypto</strong></li>
+<li>👨‍💻 Willing to learn<strong>React & Solidity</strong></li>
+<li>💬 Ask me anything about<strong>Investing</strong></li>
+<li>📫 DM for<strong>collab & work</strong></li>
+<li>🎑 More about me at<a href="https://www.linkedin.com/in/dimitar-ivanov-6261a8249/">LinkedIn</a></li>
+<li>⚡ Fun fact<strong>I never miss a workout</strong></li>
 </ul>
 
-<p align = "center"><a href="" target="blank"><img src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/crypto%20%26%20meta.png" align="center" width="500px" alt="dimitar ivanov linkedin" /></a></p>
 
-- 🌱 I also know graphics design.
+<p align = "center"><img src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/crypto%20%26%20meta.png" width="400px"/></p>
 
-
-- 🔧 I’m currently working on [OneMillionTattos](https://onemilliontattoos.bg/)
-
-- 🌱 I’m always learning new stuff **JavaScript**
-
-- 👯 I’m looking to collaborate on **fun projects**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/dimitar-ivanov-6261a8249/](https://www.linkedin.com/in/dimitar-ivanov-6261a8249/)
-
-- 📝 I regularly write articles on [https://puremuscle.eu/](https://puremuscle.eu/)
-
-- 💬 Ask me about **Finance & Graphic Design**
-
-- 📫 How to reach me **dmengage9@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/dimitar-ivanov-6261a8249/](https://www.linkedin.com/in/dimitar-ivanov-6261a8249/)
-
-- ⚡ Fun fact **I never miss a workout ^^**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
