@@ -11,7 +11,14 @@
 
 <br/>
 
-<h4 align = "center">👨‍💻 Very keen on finance & crypto</h4>
+<h3>About me:</h3>
+
+<p align = "center">👨‍💻 Very keen on finance & crypto</p>
+
+<ul>
+<li>🔧 I’m currently working on [OneMillionTattos](https://onemilliontattoos.bg/)</li >
+<li>🌱 I’m always learning new stuff **JavaScript**</li>
+</ul>
 
 <p align = "center"><a href="" target="blank"><img src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/crypto%20%26%20meta.png" align="center" width="500px" alt="dimitar ivanov linkedin" /></a></p>
 
