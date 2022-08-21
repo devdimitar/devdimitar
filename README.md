@@ -52,4 +52,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devdimitar&show_icons=true&locale=en&layout=compact" alt="devdimitar" />
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devdimitar&" alt="devdimitar" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devdimitar&" alt="devdimitar" /></p>
