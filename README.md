@@ -9,8 +9,8 @@
 <ul align="left">
 <li>🔧 I’m currently working on <a href="https://onemilliontattoos.bg/">OneMillionTattoos</a></li>
 <li>🎓 I’m always <strong>learning and improving myself</strong></li>
+<img align="right" alt="devDimitar" width="150" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/D-LOGO-X3.png">
 <li>🧑‍🎨 I also know <strong>graphic design</strong></li>
-<img align="right" alt="devDimitar" width="130" src="https://raw.githubusercontent.com/devdimitar/devdimitar/main/D-LOGO-X3.png">
 <li>👯 I’m looking to collaborate on <strong>fun projects</strong></li>
 <li>📈 I'm very keen on <strong>finance & crypto</strong></li>
 <li>👨‍💻 Willing to learn <strong>React & Solidity</strong></li>
